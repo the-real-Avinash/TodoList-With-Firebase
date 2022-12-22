@@ -1,3 +1,11 @@
+Firebase
+Hosted Online 
+Full CRUD functionality
+Material UI for the Design(front-End)
+Used React
+ -React Hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
